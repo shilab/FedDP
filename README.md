@@ -56,7 +56,7 @@ https://github.com/tensorflow/tensorflow/blob/master/tensorflow/python/training/
 https://github.com/tensorflow/privacy/blob/master/tensorflow_privacy/privacy/optimizers/dp_optimizer.py
 
 # Citation
-
+```
 @inproceedings{Li2023FedDP,
   title={FedDP: Secure Federated Learning with Differential Privacy for Disease Prediction},
   author={Li, Bin and Gao, Hongchang and Shi, Xinghua},
@@ -64,3 +64,4 @@ https://github.com/tensorflow/privacy/blob/master/tensorflow_privacy/privacy/opt
   year={2023},
   organization={Springer}
 }
+```
